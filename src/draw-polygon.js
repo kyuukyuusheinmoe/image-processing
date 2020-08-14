@@ -1,8 +1,8 @@
-import {fabric} from 'fabric';
+import { fabric } from 'fabric';
 
 
 function DrawPolygon() {
-   console.log ('I am in Draw Polygon')
+    console.log('I am in Draw Polygon')
     var canvas = new fabric.Canvas('canvas');
     var polygonCount = 1;
     var startDrawingPolygon;
@@ -46,6 +46,7 @@ function DrawPolygon() {
                     });
 
                 }
+                
                 window["polygon" + polygonCount].set({
                     points: points
                 });
