@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "canvas": "^2.6.1",
+    "cmake-js": "^6.1.0",
     "fabric": "^3.6.3",
+    "increase-memory-limit": "^1.0.7",
+    "jimp": "^0.16.0",
+    "jsdom": "^16.4.0",
+    "node-gyp": "^7.1.0",
+    "node-pre-gyp": "^0.15.0",
+    "opencv": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "windows-build-tools": "^5.2.2"
   },
   "scripts": {
     "start": "react-scripts start",

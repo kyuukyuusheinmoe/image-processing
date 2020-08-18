@@ -1,6 +1,6 @@
-#img-canvas {
+#my-image {
   position: absolute;
   left: 20px;
   top: 100px;
-  z-index: -99;
+  z-index: -999;
 }
